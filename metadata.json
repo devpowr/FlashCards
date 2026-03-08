@@ -1,0 +1,5 @@
+{
+  "name": "Dictionary Flashcards",
+  "description": "Generate and study flashcards using a dictionary API.",
+  "requestFramePermissions": []
+}
